@@ -44,10 +44,10 @@
     <img alt="C#" src="https://img.shields.io/badge/Csharp-F7931E?style=for-the-badge&logo=csharp&logoColor=white">
   </a>
    <a href="https://html.com/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-D00000?style=for-the-badge&logo=HTML&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-D00000?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-D00000?style=for-the-badge&logo=CSS&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-D00000?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
    <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-777BB4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white">
