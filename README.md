@@ -81,6 +81,8 @@
 
 ## Projects
 
+
+	
 <a href="https://github.com/wraithio/sheargenius.web">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -98,29 +100,17 @@
 </a> 
 
 
+
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wraithio&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wraithio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wraithio" height="192px"/>
-  <br/>
+
   </p>
-</details>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wraithio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wraithio" height="192px"/>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/wraithio"><img alt="Aaron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wraithio&custom_title=Aaron's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
