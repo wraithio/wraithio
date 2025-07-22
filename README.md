@@ -105,10 +105,10 @@
 
 
   <br/>
-  <p>
+  <!--<p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aaron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wraithio&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 
-  </p>
+  </p>-->
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wraithio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wraithio" height="192px"/>
 
 
@@ -129,4 +129,4 @@
 -----
 Credits: [Nneji123](https://github.com/Nneji123)
 
-Last Edited on: 4/10/2025
+Last Edited on: 7/22/2025
